@@ -1,0 +1,45 @@
+--------------------------------------------
+https://youtu.be/w-ITLbRfhnA
+
+11 : 54
+-------------------------------------------- /////////////////////////////////////////////////////////
+Налаштування VSC 
+https://youtu.be/e15PvHRHB_w
+
+
+{
+    
+        "extensions.autoCheckUpdates": false,
+        "update.enableWindowsBackgroundUpdates": false,
+        "extensions.autoUpdate": false,
+        "update.showReleaseNotes": false,
+        "update.mode": "none",
+    
+        "debug.inlineValues": "on",
+        "debug.autoExpandLazyVariables": true,
+    
+        "editor.minimap.enabled": false,
+        "terminal.integrated.cursorStyle": "line",
+        "terminal.integrated.cursorBlinking": true,
+        "window.commandCenter": false,
+        "workbench.startupEditor": "none",
+        "files.autoSave": "afterDelay",
+        "explorer.autoReveal": false,
+        "explorer.compactFolders": false,
+        "breadcrumbs.enabled": false,
+        "terminal.integrated.defaultProfile.windows": "Command Prompt",
+        "workbench.colorTheme": "Monokai Dimmed"
+}
+
+D:\GitHub\Lessons-Django-from-Python-Hub-studio>python -m venv venv #---- Встановлюємо віртуальне оточення
+#------ Активуємо віртуальне оточення (вибираємо зі списку)
+
+pip install django
+
+30 : 53
+--------------------------------------------
+
+
+
+127.0.0.1
+localhost
